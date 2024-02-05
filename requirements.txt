@@ -1,0 +1,5 @@
+flake8==3.8.3
+fastapi==0.70.0
+hypercorn==0.13.2
+celery==5.3.6
+redis==4.1.0
